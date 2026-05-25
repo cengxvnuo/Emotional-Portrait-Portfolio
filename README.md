@@ -4,11 +4,15 @@
 
 ## 在线访问
 
-部署完成后，网站地址为：
+仓库已推送。请在 GitHub 开启 Pages（仅需一次）：
+
+1. 打开 https://github.com/cengxvnuo/Emotional-Portrait-Portfolio/settings/pages  
+2. **Build and deployment → Source** 选择 **GitHub Actions**  
+3. 等待 Actions 工作流 `Deploy GitHub Pages` 跑绿  
+
+完成后网站地址为：
 
 **https://cengxvnuo.github.io/Emotional-Portrait-Portfolio/**
-
-（若仓库 Settings → Pages 使用其他分支或目录，请以 GitHub 显示的实际 URL 为准。）
 
 ## 本地预览
 
